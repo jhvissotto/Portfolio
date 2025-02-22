@@ -1,0 +1,6 @@
+dotenv
+requests
+flask
+sqlalchemy
+bcrypt
+jwt
