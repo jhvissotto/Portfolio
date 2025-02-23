@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Transition 2</title>
+        <style>
+            * { box-sizing: border-box; margin: 0; padding: 0; }
+            
+            .container {
+                background-color: slategray;
+                width:  600px;
+                height: 600px;
+                margin-top: 15px;
+                margin-left: 15px;
+            }
+            .box {
+                background-color: blue;
+                transition: width 1s;
+                width: 0%;
+                height: 100%;
+            }
+            .container:hover .box {
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class='container'>
+            <div class='box'></div>
+        </div>
+    </body>
+</html>
