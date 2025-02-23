@@ -16,18 +16,18 @@ import twilio
 # =========================================== # 
 load_dotenv()
 
-ENV_HOST        = os.getenv('HOST') 
-ENV_DEBUG       = os.getenv('DEBUG') 
-ENV_JWT_SECRET  = os.getenv('JWT_SECRET') 
-ENV_JWT_ALGO    = os.getenv('JWT_ALGO') 
+ENV_SERVER_HOST  = os.getenv('SERVER_HOST') 
+ENV_SERVER_DEBUG = os.getenv('SERVER_DEBUG') 
+ENV_JWT_SECRET   = os.getenv('JWT_SECRET') 
+ENV_JWT_ALGO     = os.getenv('JWT_ALGO') 
 
-ENV_SMTP_HOST   = os.getenv('ENV_SMTP_HOST')
-ENV_SMTP_PORT   = os.getenv('ENV_SMTP_PORT')
-ENV_SMTP_USER   = os.getenv('ENV_SMTP_USER')
-ENV_SMTP_PASS   = os.getenv('ENV_SMTP_PASS')
+ENV_SMTP_HOST    = os.getenv('ENV_SMTP_HOST')
+ENV_SMTP_PORT    = os.getenv('ENV_SMTP_PORT')
+ENV_SMTP_USER    = os.getenv('ENV_SMTP_USER')
+ENV_SMTP_PASS    = os.getenv('ENV_SMTP_PASS')
 
-ENV_SMS_USER    = os.getenv('ENV_SMS_USER')
-ENV_SMS_PASS    = os.getenv('ENV_SMS_PASS')
+ENV_SMS_USER     = os.getenv('ENV_SMS_USER')
+ENV_SMS_PASS     = os.getenv('ENV_SMS_PASS')
 
 
 server = Flask(__name__)
@@ -61,7 +61,7 @@ def api_response():
 
 @server.route('/api-consume')
 def api_consume():
-    return req.get(f'{ENV_HOST}/api-response').json()
+    return req.get(f'{ENV_SERVER_HOST}/api-response').json()
 
 
 # ============================================= # 
@@ -175,4 +175,4 @@ def not_found(error):
 # ================ MAIN ================ # 
 # ====================================== # 
 if __name__ == '__main__':
-    server.run(debug=ENV_DEBUG)
+    server.run(debug=ENV_SERVER_DEBUG)
