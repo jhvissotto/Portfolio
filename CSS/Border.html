@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Border</title>
+        <style>
+            * { box-sizing: border-box; margin: 0; padding: 0; }
+
+            .container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                background: linear-gradient(-45deg, rgb(228, 32, 32), rgb(209, 24, 209));
+                background-color: red;
+                border-radius: 100%;
+                width: 400px;
+                height: 400px;
+                
+                margin: 20px;
+            }
+            .box {
+                background: linear-gradient(-45deg, black, slateblue);
+                border-radius: 100%;
+                width: 93%;
+                height: 93%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class='container'>
+            <div class='box'></div>
+        </div>
+    </body>
+</html>
