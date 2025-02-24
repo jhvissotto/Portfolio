@@ -24,7 +24,7 @@ export function Redux() {
 
   return (
     <>
-      <h1>Counter</h1>
+      <h1>Redux</h1>
       <h2>Value: {value}</h2>
       <button onClick={increment}>Increment</button>
       <button onClick={decrement}>Decrement</button>
