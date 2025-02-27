@@ -8,4 +8,6 @@
 
 > 🎨 **Behance**: https://www.behance.net/josehv
 
+> 📷 **Youtube**: https://www.youtube.com/@josehenriquev
+
 > 😎 **Instagram**: https://instagram.com/jhenrique.vissotto
