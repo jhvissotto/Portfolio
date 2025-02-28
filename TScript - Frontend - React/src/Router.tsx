@@ -9,7 +9,8 @@ export function Router() {
             <Routes>
                 <Route path='/'         element={<Page.Welcome />}  />
                 <Route path='/counter'  element={<Page.Counter />}  />
-                <Route path='/redux'    element={<Page.Redux />}    />
+                <Route path='/redux'    element={<Page.Redux   />}  />
+                <Route path='/context'  element={<Page.Context />}  />
             </Routes>
         </BrowserRouter>
     )
