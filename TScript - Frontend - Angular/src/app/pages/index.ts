@@ -1,0 +1,5 @@
+export * from './list/list.component'
+export * from './counter/counter.component'
+export * from './counter2/counter2.component'
+export * from './counter3/counter3.component'
+export * from './api/api.component'
