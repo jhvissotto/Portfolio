@@ -1,0 +1,21 @@
+{
+    "name": "acer/php",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "user",
+            "email": "user@mail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    },
+    "scripts": {
+        "dev": "php -S localhost:8000 -t src"
+    }
+}
