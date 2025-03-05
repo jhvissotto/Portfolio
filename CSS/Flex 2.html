@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flex</title>
+        <style>
+            * { box-sizing: border-box; margin: 0; padding: 0; }
+            
+            .container {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                background-color: slategray;
+                width:  600px;
+                height: 600px;
+                margin: 15px;
+            }
+            
+            .cols {
+                background-color: darkblue;
+                width:  100px;
+                height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class='container'>
+            <div class='cols'>1</div>
+            <div class='cols'>2</div>
+            <div class='cols'>3</div>
+        </div>
+    </body>
+</html>
