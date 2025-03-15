@@ -120,6 +120,7 @@
 - DDD Design
 - Welcome
 - Basic API
+- Controllers & Services
 - Swagger
 
 ### 16) TScript - Frontend - Angular
@@ -150,18 +151,18 @@
 - NPM Management
 - Favicon
 - Welcome
-
+- Page Layouts
+- Components
 - Frontend/Backend Integration
 - TRPC
 - API Consume
 - Pagination
 - Infinite Loader
-
 - Environment Variables
+- Controllers
 - Auth functions
 - REST API
 - Controller
-
 - SQLite Database
 - Prisma ORM
 - Query builder
