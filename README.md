@@ -180,7 +180,7 @@
 - Environment Variables
 - Controllers
 - Content Provider
-- Auth functions
+- JWT + Bcrypt Authentication
 - REST API
 - Controller
 - SQLite Database
