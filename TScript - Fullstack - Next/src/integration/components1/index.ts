@@ -1,1 +1,0 @@
-export * as welcome from './welcome'
