@@ -154,16 +154,20 @@
 - Page Layouts
 - Components
 - Frontend/Backend Integration
+- Input validations
+- User registration / authentication
 - TRPC
 - API Consume
 - Pagination
 - Infinite Loader
 - Environment Variables
 - Controllers
+- Content Provider
 - Auth functions
 - REST API
 - Controller
 - SQLite Database
+- SQL CRUD
 - Prisma ORM
 - Query builder
 
