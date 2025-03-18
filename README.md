@@ -24,7 +24,7 @@
 - Pypi: https://pypi.org/project/jh-finance-api
 
 ### 🟨 Stickynotes
-- Link: https://project-stickynotes.onrender.com/
+- Link: https://project-stickynotes.onrender.com
 
 
 # Repository Indice
