@@ -13,6 +13,20 @@
 > 😎 **Instagram**: https://instagram.com/jhenrique.vissotto
 
 
+# Mini Projects Running
+
+### 🟨 Stickynotes
+- Link: https://project-stickynotes.onrender.com/
+
+### 🖥️ JH Finance Server 
+- Home: https://bit.ly/jh_finance_api
+- Swagger: https://bit.ly/jh_finance_api_swagger
+
+### 🐍 JH Finance API
+- Github: https://github.com/jhvissotto/Project_Finance_Api
+- https://pypi.org/project/jh-finance-api
+
+
 # Repository Indice
 
 ### 1) CSS
