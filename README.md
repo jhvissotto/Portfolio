@@ -122,6 +122,7 @@
 
 ### 12) Python - Machine Learning
 - Linear Regression
+- Param Optimization
 
 ### 13) Python - OOP
 - Class Breakdown
