@@ -38,7 +38,6 @@
 ### 2) Figma - Prototyping
 - Coreldraw + Figma Drawing
 - Doctoralia Clone
-- Real Investor Landing Page
 - Stickynote Print Screen
 - Stockhunter Portal Print Screens
 
