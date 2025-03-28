@@ -29,6 +29,8 @@
 ### 🟨 Stickynotes
 - Link: https://project-stickynotes.onrender.com
 
+### 📺 Animes Dublados
+- Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
 # Repository Indice
 
