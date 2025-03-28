@@ -32,7 +32,7 @@
 ### 📺 Animes Dublados
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
-### ⚛️ React Library
+### ⚛️ React Hook Library
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 
