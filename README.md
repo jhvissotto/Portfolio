@@ -36,8 +36,8 @@
 # Library Index
 
 ### 1) TScript
-- Github: https://github.com/jhvissotto/Library_Counter_TScript
-- NPM: https://www.npmjs.com/package/library_counter_tscript
+- Github: https://github.com/jhvissotto/Library_Helpers_TScript
+- NPM: https://www.npmjs.com/package/library_helpers_tscript
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 
