@@ -33,15 +33,15 @@
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
 
-# Library Indice
+# Library Index
 
-### 1) TScript Counter
+### 1) TScript
 - Github: https://github.com/jhvissotto/Library_Counter_TScript
 - NPM: https://www.npmjs.com/package/library_counter_tscript
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 
-# Repository Indice
+# Repository Index
 
 ### 1) CSS
 - Native use cases
