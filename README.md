@@ -164,7 +164,11 @@
 - Form manipulation
 - Binding user actions
 
-### 18) TScript - Fullstack - Next
+### 18) TScript - Frontend - Vite
+- Vite Management
+- Default Installation
+
+### 19) TScript - Fullstack - Next
 - NPM Management
 - Favicon
 - Welcome
@@ -188,12 +192,12 @@
 - Prisma ORM
 - Query builder
 
-### 18) TScript - OOP
+### 20) TScript - OOP
 - Class Breakdown
 - Dependency Injection
 - Inheritance
 
-### 19) TScript - ORM - Prisma
+### 21) TScript - ORM - Prisma
 - NPM Management
 - SQLite Database
 - Basic Implementation
