@@ -32,7 +32,7 @@
 ### 📺 Animes Dublados
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
-### 🪝 TScript Libraries
+### ⚛️ TScript Libraries
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 # Repository Indice
