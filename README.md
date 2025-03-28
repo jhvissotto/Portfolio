@@ -168,7 +168,11 @@
 - Vite Management
 - Default Installation
 
-### 19) TScript - Fullstack - Next
+### 19) TScript - Fullstack - Bun
+- Bun Runtime
+- Default Installation
+
+### 20) TScript - Fullstack - Next
 - NPM Management
 - Favicon
 - Welcome
@@ -192,12 +196,12 @@
 - Prisma ORM
 - Query builder
 
-### 20) TScript - OOP
+### 21) TScript - OOP
 - Class Breakdown
 - Dependency Injection
 - Inheritance
 
-### 21) TScript - ORM - Prisma
+### 22) TScript - ORM - Prisma
 - NPM Management
 - SQLite Database
 - Basic Implementation
