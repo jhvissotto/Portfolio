@@ -15,6 +15,9 @@
 
 # Mini Projects Running
 
+### ⭐ Finance Analytics
+- Link: https://bit.ly/finance_analytics
+
 ### 🖥️ JH Finance Server 
 - Home: https://bit.ly/jh_finance_api
 - Swagger: https://bit.ly/jh_finance_api_swagger
