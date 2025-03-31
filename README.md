@@ -40,7 +40,7 @@
 
 ### 🟦 TScript Helpers
 - Github: https://github.com/jhvissotto/Library_Helpers_TScript
-- NPM: https://www.npmjs.com/package/library_helpers_tscript
+- NPM: https://www.npmjs.com/package/tscript-helpers
 
 ### ⚛️ JScript useStruct Hook
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
