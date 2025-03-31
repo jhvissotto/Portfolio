@@ -38,11 +38,11 @@
 
 # Library Index
 
-### 🟦 TScript Helpers
+### 1) TScript Helpers
 - Github: https://github.com/jhvissotto/Library_Helpers_TScript
 - NPM: https://www.npmjs.com/package/library_helpers_tscript
 
-### ⚛️ JScript useStruct Hook
+### 2) JScript useStruct Hook
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 
