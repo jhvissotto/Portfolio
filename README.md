@@ -35,7 +35,14 @@
 ### 📺 Animes Dublados
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
-### ⚛️ React Hook Library
+
+# Library Index
+
+### 🟦 TScript Helpers
+- Github: https://github.com/jhvissotto/Library_Helpers_TScript
+- NPM: https://www.npmjs.com/package/library_helpers_tscript
+
+### ⚛️ JScript useStruct Hook
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 
