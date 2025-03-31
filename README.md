@@ -23,7 +23,7 @@
 - Swagger: https://bit.ly/jh_finance_api_swagger
 
 ### 🐍 JH Finance API
-- Github: https://github.com/jhvissotto/Project_Finance_Api
+- Github: https://github.com/jhvissotto/Project_Finance_Api_Python
 - Pypi: https://pypi.org/project/jh-finance-api
 
 ### ♥️ Top Models
