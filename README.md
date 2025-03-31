@@ -1,8 +1,8 @@
 # Check my External Links
 
-> 🧮 **Webpage**: https://slashpage.com/jh-analytics
+> 📊 **Webpage**: https://slashpage.com/jh-analytics
 
-> 📈 **Linkedin**: https://www.linkedin.com/in/josehv
+> ➡️ **Linkedin**: https://www.linkedin.com/in/josehv
 
 > 💻 **Github**: https://github.com/jhvissotto/Portfolio
 
