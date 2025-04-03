@@ -22,6 +22,9 @@
 - Home: https://bit.ly/jh_finance_api
 - Swagger: https://bit.ly/jh_finance_api_swagger
 
+### 📈 Softrader
+- Pypi: https://pypi.org/project/softrader
+
 ### 🐍 JH Finance API
 - Github: https://github.com/jhvissotto/Project_Finance_Api_Python
 - Pypi: https://pypi.org/project/jh-finance-api
