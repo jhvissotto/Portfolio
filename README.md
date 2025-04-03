@@ -41,6 +41,10 @@
 
 # Library Index
 
+### 🧮 Python Helpers
+- Github: https://github.com/jhvissotto/Library_Python_Helpers
+- Pypi: https://pypi.org/project/py-helpers-lib
+
 ### 🟦 TScript Helpers
 - Github: https://github.com/jhvissotto/Library_TScript_Helpers
 - NPM: https://www.npmjs.com/package/tscript-helpers
