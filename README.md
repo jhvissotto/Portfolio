@@ -29,9 +29,6 @@
 - Github: https://github.com/jhvissotto/Project_Finance_Api_Python
 - Pypi: https://pypi.org/project/jh-finance-api
 
-### ♥️ Top Models
-- Link: https://project-models.onrender.com
-
 ### 🟨 Stickynotes
 - Link: https://project-stickynotes.onrender.com
 
