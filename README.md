@@ -52,176 +52,180 @@
 
 # Repository Index
 
-### 1) CSS
-- Native use cases
+### 1) CLI  
+- OS, Github basic commands  
+- Python, TScript, Java basic commands  
 
-### 2) Figma - Prototyping
-- Coreldraw + Figma Drawing
-- Doctoralia Clone
-- Stickynote Print Screen
-- Stockhunter Portal Print Screens
+### 2) CSS  
+- Native use cases  
 
-### 3) Java - Backend - Javalin
-- Maven Management
-- Environment Variables
-- Routering
-- Basic API
-- JWT + Bcrypt Authentication
-- SQLite + SQL Queries
+### 3) Figma - Prototyping  
+- Coreldraw + Figma Drawing  
+- Doctoralia Clone  
+- Stickynote Print Screen  
+- Stockhunter Portal Print Screens  
 
-### 4) Java - Get Started
-- Welcome
+### 4) Java - Backend - Javalin  
+- Maven Management  
+- Environment Variables  
+- Routering  
+- Basic API  
+- JWT + Bcrypt Authentication  
+- SQLite + SQL Queries  
 
-### 5) JScript - Backend - Express
-- NPM Management
-- Environment Variables
-- Routering
-- Basic API
-- Self api consuming
-- JWT + Bcrypt Authentication
-- Knex ORM
-- SQLite Database
-- SQL Queries (raw + builder)
-- Send Email Service
-- Send SMS Service
-- Static Folder Reading
-- HTML Rendering
+### 5) Java - Get Started  
+- Welcome  
 
-### 6) Kotlin - Backend - Javalin
-- Gradle Management
-- Environment Variables
-- Routering
-- Basic API
-- JWT + Bcrypt Authentication
-- SQLite + SQL Queries
-- Static Folder Reading
+### 6) JScript - Backend - Express  
+- NPM Management  
+- Environment Variables  
+- Routering  
+- Basic API  
+- Self api consuming  
+- JWT + Bcrypt Authentication  
+- Knex ORM  
+- SQLite Database  
+- SQL Queries (raw + builder)  
+- Send Email Service  
+- Send SMS Service  
+- Static Folder Reading  
+- HTML Rendering  
 
-### 7) PHP - Backend - Slim
-- Composer Management
-- Routering
-- Welcome
+### 7) Kotlin - Backend - Javalin  
+- Gradle Management  
+- Environment Variables  
+- Routering  
+- Basic API  
+- JWT + Bcrypt Authentication  
+- SQLite + SQL Queries  
+- Static Folder Reading  
 
-### 8) Python - Backend - Flask
-- Environment Variables
-- Basic API
-- Self api consume
-- JWT + Bcrypt Authentication
-- SQLite + SQL Queries
-- Send Email Service
-- Send SMS Service
-- Static Folder Reading
-- HTML Rendering
+### 8) PHP - Backend - Slim  
+- Composer Management  
+- Routering  
+- Welcome  
 
-### 9) Python - Data Analysis
-- Charts
-- Error Functions
-- Linear Regression
-- Numpy
-- Pandas
-- Sciypy
+### 9) Python - Backend - Flask  
+- Environment Variables  
+- Basic API  
+- Self api consume  
+- JWT + Bcrypt Authentication  
+- SQLite + SQL Queries  
+- Send Email Service  
+- Send SMS Service  
+- Static Folder Reading  
+- HTML Rendering  
 
-### 10) Python - Finance
-- FFN
-- Interactivebrokers
-- Slickcharts
-- YFinance
+### 10) Python - Data Analysis  
+- Charts  
+- Error Functions  
+- Linear Regression  
+- Numpy  
+- Pandas  
+- Sciypy  
 
-### 11) Python - Finance - OpenBB
-- Crypto
-- Currency
-- Equity
-- ETF
-- FixedIncome
-- Futures
-- Index
-- Futures
-- Index
-- Login
-- Options
+### 11) Python - Finance  
+- FFN  
+- Interactivebrokers  
+- Slickcharts  
+- YFinance  
 
-### 12) Python - Machine Learning
-- Linear Regression
-- Param Optimization
+### 12) Python - Finance - OpenBB  
+- Crypto  
+- Currency  
+- Equity  
+- ETF  
+- FixedIncome  
+- Futures  
+- Index  
+- Futures  
+- Index  
+- Login  
+- Options  
 
-### 13) Python - OOP
-- Class Breakdown
-- Dependency Injection
-- Inheritance
+### 13) Python - Machine Learning  
+- Linear Regression  
+- Param Optimization  
 
-### 14) SQL
-- SQLite Database
-- SQL Queries
+### 14) Python - OOP  
+- Class Breakdown  
+- Dependency Injection  
+- Inheritance  
 
-### 15) TScript - Backend - Nest
-- NPM Management
-- DDD Design
-- Welcome
-- Basic API
-- Controllers & Services
-- Swagger
+### 15) SQL  
+- SQLite Database  
+- SQL Queries  
 
-### 16) TScript - Frontend - Angular
-- NPM Management
-- Favicon
-- Observer + Redux implementation
-- Counter (Local + Global)
-- API consume
-- List renderization
-- Binding user actions
-- Form manipulation
+### 16) TScript - Backend - Nest  
+- NPM Management  
+- DDD Design  
+- Welcome  
+- Basic API  
+- Controllers & Services  
+- Swagger  
 
-### 17) TScript - Frontend - React
-- NPM Management
-- Favicon
-- Page Layouts
-- Redux implementations
-- Providers
-- Contexts
-- Hooks
-- Counter (State, Redux, Context)
-- External API Consume
-- List Renderization
-- Form manipulation
-- Binding user actions
+### 17) TScript - Frontend - Angular  
+- NPM Management  
+- Favicon  
+- Observer + Redux implementation  
+- Counter (Local + Global)  
+- API consume  
+- List renderization  
+- Binding user actions  
+- Form manipulation  
 
-### 18) TScript - Frontend - Vite
-- Vite Management
-- Default Installation
+### 18) TScript - Frontend - React  
+- NPM Management  
+- Favicon  
+- Page Layouts  
+- Redux implementations  
+- Providers  
+- Contexts  
+- Hooks  
+- Counter (State, Redux, Context)  
+- External API Consume  
+- List Renderization  
+- Form manipulation  
+- Binding user actions  
 
-### 19) TScript - Fullstack - Bun
-- Bun Runtime
-- Default Installation
+### 19) TScript - Frontend - Vite  
+- Vite Management  
+- Default Installation  
 
-### 20) TScript - Fullstack - Next
-- NPM Management
-- Favicon
-- Welcome
-- Page Layouts
-- Components
-- Frontend/Backend Integration
-- Input validations
-- User registration / authentication
-- TRPC
-- API Consume
-- Pagination
-- Infinite Loader
-- Environment Variables
-- Controllers
-- Content Provider
-- JWT + Bcrypt Functions
-- REST API
-- Controller
-- SQLite Database
-- SQL CRUD
-- Prisma ORM
-- Query builder
+### 20) TScript - Fullstack - Bun  
+- Bun Runtime  
+- Default Installation  
 
-### 21) TScript - OOP
-- Class Breakdown
-- Dependency Injection
-- Inheritance
+### 21) TScript - Fullstack - Next  
+- NPM Management  
+- Favicon  
+- Welcome  
+- Page Layouts  
+- Components  
+- Frontend/Backend Integration  
+- Input validations  
+- User registration / authentication  
+- TRPC  
+- API Consume  
+- Pagination  
+- Infinite Loader  
+- Environment Variables  
+- Controllers  
+- Content Provider  
+- JWT + Bcrypt Functions  
+- REST API  
+- Controller  
+- SQLite Database  
+- SQL CRUD  
+- Prisma ORM  
+- Query builder  
 
-### 22) TScript - ORM - Prisma
-- NPM Management
-- SQLite Database
+### 22) TScript - OOP  
+- Class Breakdown  
+- Dependency Injection  
+- Inheritance  
+
+### 23) TScript - ORM - Prisma  
+- NPM Management  
+- SQLite Database  
 - Basic Implementation
