@@ -71,6 +71,10 @@ npm install --global ____
 yarn add ____
 ```
 
+```
+npm uninstall ____
+```
+
 ### NPX Creators
 ```
 npx create-react-app
