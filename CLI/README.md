@@ -110,8 +110,13 @@ gradle init
 
 ```
 mvn archetype:generate \
-  -DgroupId=com.example.app \
+  -DgroupId=com.example.demo \
   -DartifactId=my-project \
   -DarchetypeArtifactId=maven-archetype-quickstart \
   -DinteractiveMode=false
+```
+
+### Execute Java
+```
+mvn spring-boot:run
 ```
