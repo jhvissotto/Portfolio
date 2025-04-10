@@ -52,20 +52,20 @@
 
 # Repository Index
 
-### 1) CLI  
+### CLI  
 - OS, Github basic commands  
 - Python, TScript, Java basic commands  
 
-### 2) CSS  
+### CSS  
 - Native use cases  
 
-### 3) Figma - Prototyping  
+### Figma - Prototyping  
 - Coreldraw + Figma Drawing  
 - Doctoralia Clone  
 - Stickynote Print Screen  
 - Stockhunter Portal Print Screens  
 
-### 4) Java - Backend - Javalin  
+### Java - Backend - Javalin  
 - Maven Management  
 - Environment Variables  
 - Routering  
@@ -73,10 +73,13 @@
 - JWT + Bcrypt Authentication  
 - SQLite + SQL Queries  
 
-### 5) Java - Get Started  
+### Java - Backend - Spring Boot  
+- Basic Installation
+
+### Java - Get Started  
 - Welcome  
 
-### 6) JScript - Backend - Express  
+### JScript - Backend - Express  
 - NPM Management  
 - Environment Variables  
 - Routering  
@@ -91,7 +94,7 @@
 - Static Folder Reading  
 - HTML Rendering  
 
-### 7) Kotlin - Backend - Javalin  
+### Kotlin - Backend - Javalin  
 - Gradle Management  
 - Environment Variables  
 - Routering  
@@ -100,12 +103,12 @@
 - SQLite + SQL Queries  
 - Static Folder Reading  
 
-### 8) PHP - Backend - Slim  
+### PHP - Backend - Slim  
 - Composer Management  
 - Routering  
 - Welcome  
 
-### 9) Python - Backend - Flask  
+### Python - Backend - Flask  
 - Environment Variables  
 - Basic API  
 - Self api consume  
@@ -116,7 +119,7 @@
 - Static Folder Reading  
 - HTML Rendering  
 
-### 10) Python - Data Analysis  
+### Python - Data Analysis  
 - Charts  
 - Error Functions  
 - Linear Regression  
@@ -124,13 +127,13 @@
 - Pandas  
 - Sciypy  
 
-### 11) Python - Finance  
+### Python - Finance  
 - FFN  
 - Interactivebrokers  
 - Slickcharts  
 - YFinance  
 
-### 12) Python - Finance - OpenBB  
+### Python - Finance - OpenBB  
 - Crypto  
 - Currency  
 - Equity  
@@ -143,20 +146,20 @@
 - Login  
 - Options  
 
-### 13) Python - Machine Learning  
+### Python - Machine Learning  
 - Linear Regression  
 - Param Optimization  
 
-### 14) Python - OOP  
+### Python - OOP  
 - Class Breakdown  
 - Dependency Injection  
 - Inheritance  
 
-### 15) SQL  
+### SQL  
 - SQLite Database  
 - SQL Queries  
 
-### 16) TScript - Backend - Nest  
+### TScript - Backend - Nest  
 - NPM Management  
 - DDD Design  
 - Welcome  
@@ -164,7 +167,7 @@
 - Controllers & Services  
 - Swagger  
 
-### 17) TScript - Frontend - Angular  
+### TScript - Frontend - Angular  
 - NPM Management  
 - Favicon  
 - Observer + Redux implementation  
@@ -174,7 +177,7 @@
 - Binding user actions  
 - Form manipulation  
 
-### 18) TScript - Frontend - React  
+### TScript - Frontend - React  
 - NPM Management  
 - Favicon  
 - Page Layouts  
@@ -188,15 +191,15 @@
 - Form manipulation  
 - Binding user actions  
 
-### 19) TScript - Frontend - Vite  
+### TScript - Frontend - Vite  
 - Vite Management  
 - Default Installation  
 
-### 20) TScript - Fullstack - Bun  
+### TScript - Fullstack - Bun  
 - Bun Runtime  
 - Default Installation  
 
-### 21) TScript - Fullstack - Next  
+### TScript - Fullstack - Next  
 - NPM Management  
 - Favicon  
 - Welcome  
@@ -220,12 +223,12 @@
 - Prisma ORM  
 - Query builder  
 
-### 22) TScript - OOP  
+### TScript - OOP  
 - Class Breakdown  
 - Dependency Injection  
 - Inheritance  
 
-### 23) TScript - ORM - Prisma  
+### TScript - ORM - Prisma  
 - NPM Management  
 - SQLite Database  
 - Basic Implementation
