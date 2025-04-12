@@ -84,9 +84,12 @@ npx create-react-app
 npx create-next-app
 ```
 
-### Typescript Compiler
+### Builders
 ```sh
 tsc
+```
+```sh
+next build
 ```
 
 ### Prisma Automations
