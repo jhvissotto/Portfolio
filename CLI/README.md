@@ -24,7 +24,7 @@ git config --global user.name "User Name"
 
 ### Installation
 ```sh
-winget install --id Docker.DockerCli
+choco install docker-cli
 ```
 
 # 🐍 Python
