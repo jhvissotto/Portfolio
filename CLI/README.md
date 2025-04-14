@@ -101,7 +101,7 @@ npx create-react-app
 npx create-next-app
 ```
 
-Frontend Documentation
+### Frontend Documentation
 ```sh
 npm run storybook
 ```
