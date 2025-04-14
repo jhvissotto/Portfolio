@@ -40,6 +40,10 @@ conda install -n base ipykernel --update-deps --force-reinstall
 !pip install ____ --force-reinstall
 ```
 
+```sh
+pip install -r requirements.txt
+```
+
 ### Uninstall Dependency
 ```sh
 !pip uninstall ____
