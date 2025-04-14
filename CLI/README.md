@@ -56,6 +56,7 @@ poetry publish --build
 npm i -g yarn
 npm i -g typescript 
 npm i -g nodemon
+npm i -g bun
 ```
 
 ### Package Manager
