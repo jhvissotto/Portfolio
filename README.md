@@ -36,6 +36,11 @@
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
 
+# AI Projects
+### 🤖 Showcase
+- Home: https://ai-same-showcase-tscript.onrender.com
+
+
 # Library Index
 
 ### 🧮 Python Helpers
