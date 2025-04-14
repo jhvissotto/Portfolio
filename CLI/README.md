@@ -101,12 +101,9 @@ npx create-react-app
 npx create-next-app
 ```
 
-### Builders
+Frontend Documentation
 ```sh
-tsc
-```
-```sh
-next build
+npm run storybook
 ```
 
 ### Prisma Automations
@@ -120,6 +117,14 @@ prisma generate
 ```sh
 node .
 ts-node .
+```
+
+### Builders
+```sh
+tsc
+```
+```sh
+next build
 ```
 
 ### Publish Repository
