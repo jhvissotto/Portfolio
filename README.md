@@ -38,7 +38,7 @@
 
 # AI Projects
 ### 🤖 Showcase
-- Home: https://ai-same-showcase-tscript.onrender.com
+- Home: https://ai-same-showcase.onrender.com
 
 
 # Library Index
