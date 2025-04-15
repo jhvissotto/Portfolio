@@ -6,6 +6,10 @@ cd ..
 cd ____
 ```
 
+### Error Fixing
+```sh
+chkdsk C: /f /r /x
+```
 
 # 🐱 Github
 
