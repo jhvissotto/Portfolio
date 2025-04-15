@@ -38,6 +38,10 @@ choco install docker-cli
 conda install -n base ipykernel --update-deps --force-reinstall
 ```
 
+```sh
+pip install poetry
+```
+
 ### Install Dependency
 ```sh
 !pip install ____
@@ -48,7 +52,6 @@ conda install -n base ipykernel --update-deps --force-reinstall
 pip install -r requirements.txt
 ```
 
-### Uninstall Dependency
 ```sh
 !pip uninstall ____
 ```
