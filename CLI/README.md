@@ -40,6 +40,7 @@ conda install -n base ipykernel --update-deps --force-reinstall
 
 ```sh
 pip install poetry
+poetry config pypi-token.pypi ____
 ```
 
 ### Install Dependency
