@@ -6,6 +6,12 @@ cd ..
 cd ____
 ```
 
+### File Edition
+```
+touch ____
+rm -f ____
+```
+
 ### Error Fixing
 ```sh
 chkdsk C: /f /r /x
