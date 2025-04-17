@@ -57,6 +57,9 @@
 
 # Repository Index
 
+### C++ - Desktop - Get Started
+- First Installation and Execution
+
 ### CLI  
 - OS, Github basic commands  
 - Python, TScript, Java basic commands  
