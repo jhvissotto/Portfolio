@@ -1,5 +1,10 @@
 # 🖥️ OSystem
 
+### CLI
+```sh
+Start-Process powershell -Verb RunAs
+```
+
 ### Navigation
 ```sh
 cd ..
