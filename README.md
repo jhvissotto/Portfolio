@@ -16,11 +16,11 @@
 # Mini Projects Running
 
 ### ⭐ Finance Analytics
-- Link: https://bit.ly/finance_analytics
+- Link: https://proj-finance-portal.onrender.com
 
 ### 🖥️ JH Finance Server 
-- Home: https://bit.ly/jh_finance_api
-- Swagger: https://bit.ly/jh_finance_api_swagger
+- Home: https://proj-finance-backend.onrender.com
+- Swagger: https://proj-finance-backend.onrender.com/docs
 
 ### 📈 Softrader
 - Pypi: https://pypi.org/project/softrader
