@@ -68,10 +68,11 @@ choco install llvm
 
 ### Environment Installation
 ```sh
-conda install -n base ipykernel --update-deps --force-reinstall
-```
-```
 choco install python
+```
+
+```sh
+conda install -n base ipykernel --update-deps --force-reinstall
 ```
 
 ```sh
