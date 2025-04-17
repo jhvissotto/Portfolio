@@ -17,6 +17,12 @@ touch ____
 rm -f ____
 ```
 
+### Insllations
+```sh
+choco install ____
+choco install ____ --force
+```
+
 ### Error Fixing
 ```sh
 chkdsk C: /f /r /x
