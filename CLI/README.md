@@ -43,8 +43,8 @@ git config --global user.name "User Name"
 
 ### Installation
 ```sh
-choco install mingw -y
-g++ --version
+choco install mingw
+choco install llvm
 ```
 
 # 🐍 Python
