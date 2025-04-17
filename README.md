@@ -30,7 +30,7 @@
 - Pypi: https://pypi.org/project/jh-finance-api
 
 ### 🟨 Stickynotes
-- Link: https://project-stickynotes.onrender.com
+- Link: https://proj-stickynotes.onrender.com
 
 ### 📺 Animes Dublados
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
