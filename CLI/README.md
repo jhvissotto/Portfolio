@@ -32,7 +32,6 @@ choco install docker-cli
 ```
 git clone https://github.com/____.git
 git clone https://github.com/____.git C:\Program Files\____
-
 ```
 
 ### Initialize Repository
