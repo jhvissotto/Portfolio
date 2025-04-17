@@ -80,7 +80,13 @@ pip install poetry
 poetry config pypi-token.pypi ____
 ```
 
-### Install Dependency
+### CLI
+```sh
+python
+exit()
+```
+
+### Manage Dependencies
 ```sh
 !pip install ____
 !pip install ____ --force-reinstall
@@ -127,7 +133,7 @@ yarn init
 bun init
 ```
 
-### Install Dependency
+### Manage Dependencies
 ```sh
 npm i ____
 npm i -g ____
