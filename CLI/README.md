@@ -17,6 +17,15 @@ rm -f ____
 chkdsk C: /f /r /x
 ```
 
+
+# 🐋 Docker
+
+### Installation
+```sh
+choco install docker-cli
+```
+
+
 # 🐱 Github
 
 ### Initialize Repository
@@ -30,11 +39,12 @@ git config --global user.email "user@mail.com"
 git config --global user.name "User Name"
 ```
 
-# 🐋 Docker
+# 🖥️ C++
 
 ### Installation
 ```sh
-choco install docker-cli
+choco install mingw -y
+g++ --version
 ```
 
 # 🐍 Python
