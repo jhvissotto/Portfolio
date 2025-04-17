@@ -70,6 +70,9 @@ choco install llvm
 ```sh
 conda install -n base ipykernel --update-deps --force-reinstall
 ```
+```
+choco install python
+```
 
 ```sh
 pip install poetry
