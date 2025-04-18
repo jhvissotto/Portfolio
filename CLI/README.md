@@ -272,5 +272,5 @@ mvn spring-boot:run
 ```
 
 ```sh
-kotlinc -script Chaining.kts
+kotlinc -script ____.kts
 ```
