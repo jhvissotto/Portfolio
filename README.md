@@ -233,6 +233,7 @@
 - Query builder  
 
 ### TScript - OOP  
+- Chaining
 - Class Breakdown  
 - Dependency Injection  
 - Inheritance  
