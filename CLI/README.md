@@ -122,11 +122,6 @@ pip install poetry
 poetry config pypi-token.pypi ____
 ```
 
-### CLI
-```sh
-python
-exit()
-```
 
 ### Manage Dependencies
 ```sh
