@@ -264,5 +264,9 @@ unzip helloworld.zip
 
 ### Execute Java
 ```sh
+java Main.java
+```
+
+```sh
 mvn spring-boot:run
 ```
