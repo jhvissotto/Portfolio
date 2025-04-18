@@ -57,7 +57,7 @@
 
 # Repository Index
 
-### C++ - Desktop - Get Started
+### C++ - Get Started
 - First Installation and Execution
 
 ### CLI  
