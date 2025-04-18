@@ -62,6 +62,7 @@
 
 ### C++ - OOP
 - Chaining
+- Inheritance
 
 ### CLI  
 - OS, Github basic commands  
