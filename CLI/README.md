@@ -206,10 +206,13 @@ prisma db push
 prisma generate
 ```
 
-### Execute Root
+### Execute
 ```sh
 node .
 ts-node .
+```
+```
+bun ____.ts
 ```
 
 ### Builders
