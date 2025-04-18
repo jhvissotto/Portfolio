@@ -11,8 +11,8 @@ class Counter {
         ini(ini), 
         val(ini) {}
 
-    Counter& set(int _new)    { val  = _new;      return *this; }
-    Counter& reset()          { val  =  ini;      return *this; }
+    Counter& set(int _new)    { val = _new;       return *this; }
+    Counter& reset()          { val =  ini;       return *this; }
     Counter& increment()      { val ++ ;          return *this; }
     Counter& decrement()      { val -- ;          return *this; }
     Counter& add(int by = 1)  { val += by;        return *this; }
