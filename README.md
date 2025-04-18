@@ -158,10 +158,11 @@
 - Linear Regression  
 - Param Optimization  
 
-### Python - OOP  
-- Class Breakdown  
+### Python - OOP
+- Chaining
+- Class Breakdown
 - Dependency Injection  
-- Inheritance  
+- Inheritance
 
 ### SQL  
 - SQLite Database  
