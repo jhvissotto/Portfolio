@@ -11,9 +11,9 @@ class Class1 {
 
 
 class Class2: public Class1 {
-public:
-    string prop2 = "prop2";
-    string func2() { return "func2"; }
+    public:
+        string prop2 = "prop2";
+        string func2() { return "func2"; }
 };
 
 
