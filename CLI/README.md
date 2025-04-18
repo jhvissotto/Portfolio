@@ -37,7 +37,7 @@ chkdsk C: /f /r /x
 
 ### All-in-One Installations
 ```sh
-choco install git msys2 openjdk python nodejs -y
+choco install git msys2 openjdk maven python nodejs -y
 ```
 ```sh
 pip install poetry
@@ -230,6 +230,11 @@ bun publish
 
 
 # ☕ Java
+
+### Installations
+```sh
+choco install openjdk maven
+```
 
 ### Initialize Project
 ```sh
