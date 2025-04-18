@@ -7,13 +7,15 @@ class Counter {
         this.val = ini 
     }
     
-    set(_new:number)    { this.val  = _new;     return this     }
-    reset()             { this.val  = this.ini; return this     }
-    increment()         { this.val += 1;        return this     }
-    decrement()         { this.val -= 1;        return this     }
-    add(by:number)      { this.val += by;       return this     }
-    sub(by:number)      { this.val -= by;       return this     }
-    get()               {                       return this.val }
+    set(_new:number)  { this.val  = _new;           return this     }
+    reset()           { this.val  = this.ini;       return this     }
+    increment()       { this.val ++ ;               return this     }
+    decrement()       { this.val -- ;               return this     }
+    add(by=1)         { this.val += by;             return this     }
+    sub(by=1)         { this.val -= by;             return this     }
+    mul(by:number)    { this.val  = this.val * by;  return this     }
+    div(by:number)    { this.val  = this.val / by;  return this     }
+    get()             {                             return this.val }
 }
 
 
