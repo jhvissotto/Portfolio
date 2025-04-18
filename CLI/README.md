@@ -43,7 +43,7 @@ choco install git msys2 python openjdk maven kotlinc gradle nodejs -y
 pip install poetry
 ```
 ```sh
-npm install yarn bun nodemon typescript --global
+npm install yarn nodemont ypescript ts-node bun --global
 ```
 ```sh
 conda install -n base ipykernel --update-deps --force-reinstall
@@ -162,10 +162,7 @@ poetry publish --build
 
 ### Environment Installation
 ```sh
-npm i -g yarn
-npm i -g typescript 
-npm i -g nodemon
-npm i -g bun
+npm i -g yarn nodemont ypescript ts-node bun
 ```
 
 ### Package Manager
