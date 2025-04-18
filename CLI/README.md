@@ -25,7 +25,24 @@ choco install ____ --force
 ```
 
 ```sh
-where node
+where ____
+```
+
+### Fullstack Installations
+```sh
+choco install git msys2 python nodejs -y
+```
+
+```sh
+pip install poetry
+```
+
+```sh
+npm install yarn bun nodemon typescript --global
+```
+
+```sh
+conda install -n base ipykernel --update-deps --force-reinstall
 ```
 
 ### Error Fixing
@@ -44,8 +61,13 @@ choco install docker-cli
 
 # 🐱 Github
 
-### Download
+### Install
+```sh
+choco install git -y
 ```
+
+### Download
+```sh
 git clone https://github.com/____.git
 git clone https://github.com/____.git C:\Program Files\____
 ```
@@ -60,6 +82,7 @@ git init
 git config --global user.email "user@mail.com"
 git config --global user.name "User Name"
 ```
+
 
 # 🖥️ C++
 
@@ -82,6 +105,7 @@ pacman -S mingw-w64-x86_64-____
 ```sh
 g++ main.cpp -o main.exe; ./main.exe
 ```
+
 
 # 🐍 Python
 
