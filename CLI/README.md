@@ -20,6 +20,7 @@ rm -f ____
 ### Insllations
 ```sh
 choco install ____
+choco install ____ -y
 choco install ____ --force
 ```
 
