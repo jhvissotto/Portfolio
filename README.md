@@ -57,6 +57,8 @@
 
 # 🚦 Deployable Templates
 
+- Mobile Expo:  https://github.com/jhvissotto/Template_Mobile_TScript_Expo  
+
 - Web Next:     https://github.com/jhvissotto/Template_Web_TScript_Next  
 - Web React:    https://github.com/jhvissotto/Template_Web_TScript_React  
 - Web Angular:  https://github.com/jhvissotto/Template_Web_TScript_Angular  
