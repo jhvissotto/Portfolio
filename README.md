@@ -60,6 +60,9 @@
 ### C++ - Get Started
 - First Installation and Execution
 
+### C++ - OOP
+- Chaining
+
 ### CLI  
 - OS, Github basic commands  
 - Python, TScript, Java basic commands  
@@ -86,6 +89,9 @@
 
 ### Java - Get Started  
 - Welcome  
+
+### Java - OOP
+- Chaining
 
 ### JScript - Backend - Express  
 - NPM Management  
