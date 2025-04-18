@@ -93,6 +93,7 @@
 
 ### Java - OOP
 - Chaining
+- Inheritance
 
 ### JScript - Backend - Express  
 - NPM Management  
