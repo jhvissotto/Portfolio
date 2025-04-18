@@ -37,7 +37,7 @@ chkdsk C: /f /r /x
 
 ### All-in-One Installations
 ```sh
-choco install git msys2 openjdk maven gradle python nodejs -y
+choco install git msys2 python openjdk maven kotlinc gradle nodejs -y
 ```
 ```sh
 pip install poetry
@@ -233,7 +233,7 @@ bun publish
 
 ### Installations
 ```sh
-choco install openjdk maven gradle
+choco install openjdk maven kotlinc gradle -y
 ```
 
 ### Initialize Project
