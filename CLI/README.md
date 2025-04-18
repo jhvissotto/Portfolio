@@ -23,6 +23,10 @@ choco install ____
 choco install ____ --force
 ```
 
+```sh
+where node
+```
+
 ### Error Fixing
 ```sh
 chkdsk C: /f /r /x
@@ -60,8 +64,22 @@ git config --global user.name "User Name"
 
 ### Installation
 ```sh
-choco install mingw
-choco install llvm
+choco install msys2
+```
+
+```sh
+pacman -Syu
+pacman -S mingw-w64-x86_64-gcc
+```
+
+### Dependencies
+```sh
+pacman -S mingw-w64-x86_64-____
+```
+
+### Compile/Run
+```sh
+g++ main.cpp -o main.exe; ./main.exe
 ```
 
 # 🐍 Python
