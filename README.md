@@ -117,6 +117,9 @@
 - SQLite + SQL Queries  
 - Static Folder Reading  
 
+### Kotlin - OOP
+- Chaining
+
 ### PHP - Backend - Slim  
 - Composer Management  
 - Routering  
