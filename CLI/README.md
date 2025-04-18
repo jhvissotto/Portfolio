@@ -28,26 +28,25 @@ choco install ____ --force
 where ____
 ```
 
-### Fullstack Installations
-```sh
-choco install git msys2 python nodejs -y
-```
-
-```sh
-pip install poetry
-```
-
-```sh
-npm install yarn bun nodemon typescript --global
-```
-
-```sh
-conda install -n base ipykernel --update-deps --force-reinstall
-```
-
 ### Error Fixing
 ```sh
 chkdsk C: /f /r /x
+```
+
+# 🔋 Fullstack
+
+### All-in-One Installations
+```sh
+choco install git msys2 python nodejs -y
+```
+```sh
+pip install poetry
+```
+```sh
+npm install yarn bun nodemon typescript --global
+```
+```sh
+conda install -n base ipykernel --update-deps --force-reinstall
 ```
 
 
