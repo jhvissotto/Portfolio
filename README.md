@@ -121,6 +121,7 @@
 
 ### Kotlin - OOP
 - Chaining
+- Inheritance
 
 ### PHP - Backend - Slim  
 - Composer Management  
