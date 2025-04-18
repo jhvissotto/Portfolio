@@ -270,3 +270,7 @@ java Main.java
 ```sh
 mvn spring-boot:run
 ```
+
+```sh
+kotlinc -script Chaining.kts
+```
