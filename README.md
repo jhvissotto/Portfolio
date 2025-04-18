@@ -55,6 +55,19 @@
 - NPM: https://www.npmjs.com/package/use-struct (Deprecated)
 
 
+# 🚦 Deployable Templates
+
+- Web Next:     https://github.com/jhvissotto/Template_Web_TScript_Next  
+- Web React:    https://github.com/jhvissotto/Template_Web_TScript_React  
+- Web Angular:  https://github.com/jhvissotto/Template_Web_TScript_Angular  
+
+- Backend Express:     https://github.com/jhvissotto/Template_Backend_TScript_Express  
+- Backend Flask:       https://github.com/jhvissotto/Template_Backend_Python_Flask  
+- Backend Django:      https://github.com/jhvissotto/Template_Backend_Python_Django  
+- Backend Springboot:  https://github.com/jhvissotto/Template_Backend_Java_Springboot  
+- Backend Laravel:     https://github.com/jhvissotto/Template_Backend_PHP_Laravel  
+
+
 # Repository Index
 
 ### C++ - Get Started
