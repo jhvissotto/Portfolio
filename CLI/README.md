@@ -31,6 +31,7 @@ where ____
 ### Env Vars
 ```sh
 [System.Environment]::SetEnvironmentVariable("PATH", "$env:PATH;____", [System.EnvironmentVariableTarget]::User)
+[System.Environment]::SetEnvironmentVariable("PATH", "$env:PATH;____", [System.EnvironmentVariableTarget]::Machine)
 ```
 
 ```sh
