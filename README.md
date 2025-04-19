@@ -99,6 +99,24 @@
 ### Go - Get Started
 - First Execution
 
+### JScript - Backend - Express  
+- NPM Management  
+- Environment Variables  
+- Routering  
+- Basic API  
+- Self api consuming  
+- JWT + Bcrypt Authentication  
+- Knex ORM  
+- SQLite Database  
+- SQL Queries (raw + builder)  
+- Send Email Service  
+- Send SMS Service  
+- Static Folder Reading  
+- HTML Rendering  
+
+### JScript - Desktop - Electron
+- First Execution
+
 ### Java - Backend - Javalin  
 - Maven Management  
 - Environment Variables  
@@ -119,24 +137,6 @@
 
 ### JavaFX - Get Started
 - First Installation and Execution
-
-### JScript - Backend - Express  
-- NPM Management  
-- Environment Variables  
-- Routering  
-- Basic API  
-- Self api consuming  
-- JWT + Bcrypt Authentication  
-- Knex ORM  
-- SQLite Database  
-- SQL Queries (raw + builder)  
-- Send Email Service  
-- Send SMS Service  
-- Static Folder Reading  
-- HTML Rendering  
-
-### JScript - Desktop - Electron
-- First Execution
 
 ### Kotlin - Backend - Javalin  
 - Gradle Management  
