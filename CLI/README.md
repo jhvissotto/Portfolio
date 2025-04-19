@@ -37,7 +37,7 @@ chkdsk C: /f /r /x
 
 ### All-in-One Installations
 ```sh
-choco install git msys2 python openjdk maven kotlinc gradle nodejs dotnet-sdk -y
+choco install git msys2 python openjdk maven kotlinc gradle nodejs dotnet-sdk golang -y
 ```
 ```sh
 pip install poetry
