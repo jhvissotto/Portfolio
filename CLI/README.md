@@ -53,7 +53,7 @@ choco install git msys2 python openjdk maven kotlinc gradle nodejs dotnet-sdk go
 pip install poetry
 ```
 ```sh
-npm install yarn nodemon typescript ts-node bun vite electron electron-vite @types/node @types/electron --global
+npm install yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron --global
 ```
 ```sh
 conda install -n base ipykernel --update-deps --force-reinstall
@@ -167,7 +167,7 @@ poetry publish --build
 
 ### Environment Installation
 ```sh
-npm i -g yarn nodemon typescript ts-node bun vite electron electron-vite @types/node @types/electron
+npm i -g yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron
 ```
 
 ### Package Manager
