@@ -33,6 +33,10 @@ where ____
 [System.Environment]::SetEnvironmentVariable("PATH", "$env:PATH;____", [System.EnvironmentVariableTarget]::User)
 ```
 
+```sh
+refreshenv
+```
+
 ### Error Fixing
 ```sh
 chkdsk C: /f /r /x
