@@ -90,9 +90,6 @@
 ### CSS  
 - Native use cases  
 
-### Electron - Get Started
-- First Execution
-
 ### Figma - Prototyping  
 - Coreldraw + Figma Drawing  
 - Doctoralia Clone  
@@ -137,6 +134,9 @@
 - Send SMS Service  
 - Static Folder Reading  
 - HTML Rendering  
+
+### JScript - Electron - Get Started
+- First Execution
 
 ### Kotlin - Backend - Javalin  
 - Gradle Management  
