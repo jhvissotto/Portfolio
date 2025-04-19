@@ -117,6 +117,9 @@
 - Chaining
 - Inheritance
 
+### JavaFX - Get Started
+- First Installation and Execution
+
 ### JScript - Backend - Express  
 - NPM Management  
 - Environment Variables  
