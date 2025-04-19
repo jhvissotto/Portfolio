@@ -28,6 +28,11 @@ choco install ____ --force
 where ____
 ```
 
+### Env Vars
+```sh
+[System.Environment]::SetEnvironmentVariable("PATH", "$env:PATH;____", [System.EnvironmentVariableTarget]::User)
+```
+
 ### Error Fixing
 ```sh
 chkdsk C: /f /r /x
