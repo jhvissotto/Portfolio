@@ -135,7 +135,7 @@
 - Static Folder Reading  
 - HTML Rendering  
 
-### JScript - Electron - Get Started
+### JScript - Desktop - Electron
 - First Execution
 
 ### Kotlin - Backend - Javalin  
@@ -215,6 +215,9 @@
 - Basic API  
 - Controllers & Services  
 - Swagger  
+
+### TScript - Desktop - Electron
+- First Execution
 
 ### TScript - Frontend - Angular  
 - NPM Management  
