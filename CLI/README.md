@@ -170,10 +170,11 @@ poetry publish --build
 npm i -g yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron
 ```
 
-### Package Manager
+### Initializers
 ```sh
 npm init
 yarn init
+tsc --init
 bun init
 ```
 
