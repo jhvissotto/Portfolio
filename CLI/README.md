@@ -227,6 +227,9 @@ next build
 
 ### Publish Repository
 ```sh
+npm login
+```
+```sh
 bun publish
 ```
 
