@@ -184,6 +184,11 @@ npm i -g ____
 npm install ____
 npm install --global ____
 yarn add ____
+bun i ____
+```
+
+```
+bun update ____
 ```
 
 ```sh
