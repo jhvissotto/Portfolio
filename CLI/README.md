@@ -230,6 +230,11 @@ tsc
 ```sh
 next build
 ```
+```
+bun build .                            --outdir dist --target node --dts
+bun build src/**/*.ts                  --outdir dist --target node --dts
+bun build $(find src -name 'index.ts') --outdir dist --target node --dts
+```
 
 ### Publish Repository
 ```sh
