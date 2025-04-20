@@ -36,7 +36,7 @@
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
 # College
-### 📚 My Math Book
+### 📚 My Book of Algebrism
 - PDF: https://drive.google.com/file/d/1opQM1WWqgW0dhx6TmKuqvv2j-8KTiD3n
 
 # AI Projects
