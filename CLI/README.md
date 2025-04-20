@@ -88,8 +88,8 @@ git init
 
 ### Config
 ```sh
-git config --global user.email "user@mail.com"
-git config --global user.name "User Name"
+git config --global user.email "user@mail.com"; \  
+git config --global user.name "User Name"; 
 ```
 
 
