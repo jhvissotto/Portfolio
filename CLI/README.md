@@ -47,13 +47,13 @@ chkdsk C: /f /r /x
 
 ### All-in-One Installations
 ```sh
-choco install git msys2 python openjdk maven kotlinc gradle nodejs dotnet-sdk golang -y
+choco install git msys2 python openjdk maven kotlinc gradle nvm nodejs dotnet-sdk golang -y
 ```
 ```sh
 pip install poetry
 ```
 ```sh
-npm install nvm yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron --global
+npm install yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron --global
 ```
 ```sh
 conda install -n base ipykernel --update-deps --force-reinstall
@@ -167,7 +167,7 @@ poetry publish --build
 
 ### Environment Installation
 ```sh
-npm i -g nvm yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron
+npm i -g yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron
 ```
 
 ### Initializers
