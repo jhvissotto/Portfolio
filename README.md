@@ -207,6 +207,9 @@
 - Dependency Injection  
 - Inheritance
 
+### Python - Test
+- Basic Asset Example
+
 ### SQL  
 - SQLite Database  
 - SQL Queries  
