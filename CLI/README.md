@@ -167,6 +167,9 @@ poetry publish --build
 
 ### Environment Installation
 ```sh
+choco install nvm nodejs
+```
+```sh
 npm i -g yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron
 ```
 
