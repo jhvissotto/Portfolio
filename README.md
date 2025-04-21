@@ -281,6 +281,9 @@
 - Prisma ORM  
 - Query builder  
 
+### TScript - Jest
+- Basic Jest Example
+
 ### TScript - OOP  
 - Chaining
 - Class Breakdown  
