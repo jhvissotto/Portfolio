@@ -208,7 +208,7 @@
 - Inheritance
 
 ### Python - Test
-- Basic Asset Example
+- Basic Assert Example
 
 ### SQL  
 - SQLite Database  
