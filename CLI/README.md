@@ -75,6 +75,14 @@ choco install docker-cli
 choco install git -y
 ```
 
+### CLI
+```sh
+cmd1; cmd2;
+```
+```sh
+cmd1 && cmd2
+```
+
 ### Download
 ```sh
 git clone https://github.com/____.git
