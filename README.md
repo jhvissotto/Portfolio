@@ -113,6 +113,9 @@
 ### Go - Get Started
 - First Execution
 
+### Go - Typing
+- DTO
+
 ### JScript - Backend - Express  
 - NPM Management  
 - Environment Variables  
