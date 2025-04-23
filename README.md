@@ -87,6 +87,10 @@
 - Chaining
 - Inheritance
 
+### C++ - Typing
+- DTO
+- Interface Implementation
+
 ### CLI  
 - OS, Github basic commands  
 - Python, TScript, Java basic commands  
