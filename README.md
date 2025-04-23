@@ -82,6 +82,7 @@
 
 ### C++ - Get Started
 - First Installation and Execution
+- Basic Operations
 
 ### C++ - OOP
 - Chaining
