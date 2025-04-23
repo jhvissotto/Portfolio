@@ -141,7 +141,8 @@
 - Basic Installation
 
 ### Java - Get Started  
-- Welcome  
+- Welcome
+- Basic Operations
 
 ### Java - OOP
 - Chaining
