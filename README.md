@@ -189,6 +189,9 @@
 - Slickcharts  
 - YFinance  
 
+### Python - Get Started
+- Basic Python Operations
+
 ### Python - Finance - OpenBB  
 - Crypto  
 - Currency  
