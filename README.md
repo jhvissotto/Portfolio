@@ -121,6 +121,9 @@
 ### JScript - Desktop - Electron
 - First Execution
 
+### JScript - Get Started
+- Basic Operations
+
 ### Java - Backend - Javalin  
 - Maven Management  
 - Environment Variables  
@@ -190,7 +193,7 @@
 - YFinance  
 
 ### Python - Get Started
-- Basic Python Operations
+- Basic Operations
 
 ### Python - Finance - OpenBB  
 - Crypto  
@@ -290,7 +293,7 @@
 - Query builder  
 
 ### TScript - Jest
-- Basic Jest Example
+- Basic Example
 
 ### TScript - OOP  
 - Chaining
