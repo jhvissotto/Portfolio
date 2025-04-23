@@ -142,6 +142,9 @@
 - Chaining
 - Inheritance
 
+### Java - Typing
+- Interface Implementation
+
 ### JavaFX - Get Started
 - First Installation and Execution
 
