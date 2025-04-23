@@ -144,6 +144,7 @@ poetry config pypi-token.pypi ____
 ### Manage Dependencies
 ```sh
 !pip install ____
+!pip install ____ --quiet
 !pip install ____ --force-reinstall
 ```
 
