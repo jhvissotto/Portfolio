@@ -298,4 +298,5 @@
 
 ### TScript - Typing
 - DTO
+- Generics
 - Implementation
