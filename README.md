@@ -79,6 +79,7 @@
 
 ### C# - Get Started
 - First Execution
+- Basic Operations
 
 ### C++ - Get Started
 - First Installation and Execution
