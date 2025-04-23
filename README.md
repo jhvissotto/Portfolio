@@ -228,6 +228,11 @@
 ### Python - Test
 - Basic Assert Example
 
+### Python - Typing
+- DTO
+- Generics
+- Implementation
+
 ### SQL  
 - SQLite Database  
 - SQL Queries  
