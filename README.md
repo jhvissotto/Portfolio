@@ -155,6 +155,10 @@
 - Chaining
 - Inheritance
 
+### Kotlin - Typing
+- DTO
+- Interface Implementation
+
 ### PHP - Backend - Slim  
 - Composer Management  
 - Routering  
@@ -299,4 +303,4 @@
 ### TScript - Typing
 - DTO
 - Generics
-- Implementation
+- Interface Implementation
