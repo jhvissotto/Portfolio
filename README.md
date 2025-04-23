@@ -297,4 +297,5 @@
 - Basic Implementation
 
 ### TScript - Typing
+- DTO
 - Implementation
