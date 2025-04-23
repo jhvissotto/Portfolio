@@ -162,6 +162,9 @@
 - SQLite + SQL Queries  
 - Static Folder Reading  
 
+### kotlin - Get Started
+- Basic Operations
+
 ### Kotlin - OOP
 - Chaining
 - Inheritance
