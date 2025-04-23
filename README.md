@@ -295,3 +295,6 @@
 - NPM Management  
 - SQLite Database  
 - Basic Implementation
+
+### TScript - Typing
+- Implementation
