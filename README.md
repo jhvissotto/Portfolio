@@ -81,6 +81,10 @@
 - First Execution
 - Basic Operations
 
+### C# + Typing
+- DTO
+- Interface Implementation
+
 ### C++ - Get Started
 - First Installation and Execution
 - Basic Operations
