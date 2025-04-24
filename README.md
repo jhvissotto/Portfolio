@@ -321,6 +321,7 @@
 - Basic Example
 
 ### TScript - OOP  
+- Adapter
 - Chaining
 - Class Breakdown  
 - Dependency Injection  
