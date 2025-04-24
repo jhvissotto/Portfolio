@@ -190,6 +190,10 @@ tsc --init
 bun init
 ```
 
+```sh
+bun create vite
+```
+
 ### Manage Dependencies
 ```sh
 npm i ____
