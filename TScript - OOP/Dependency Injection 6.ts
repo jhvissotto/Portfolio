@@ -1,14 +1,16 @@
-// ======================================= // 
-// ================ Model ================ // 
-// ======================================= // 
-interface ICounter {
+// ========================================== // 
+// ================ Protocol ================ // 
+// ========================================== // 
+interface Model {
     initial:    number
     value:      number
-    increment:  ()           => ICounter
-    decrement:  ()           => ICounter
-    reset:      ()           => ICounter
-    set:        (by: number) => ICounter
-    get:        ()           => ICounter['value']
+    increment:  ()           => Model
+    decrement:  ()           => Model
+    add:        (by: number) => Model
+    sub:        (by: number) => Model
+    set:        (by: number) => Model
+    reset:      ()           => Model
+    get:        ()           => Model['value']
 }
 
 
@@ -16,19 +18,21 @@ interface ICounter {
 // ================================================ // 
 // ================ Implementation ================ // 
 // ================================================ // 
-class CCounter implements ICounter {
+class Feature implements Model {
     initial: number
     value:   number
 
-    constructor(initial: number) {
-        this.initial = initial
-        this.value   = initial
+    constructor(inival: number) {
+        this.initial = inival
+        this.value   = inival
     }
 
     increment()     { this.value ++;                return this       }
     decrement()     { this.value --;                return this       }
-    reset()         { this.value  = this.initial;   return this       }
+    add(by: number) { this.value += by;             return this       }
+    sub(by: number) { this.value -= by;             return this       }
     set(by: number) { this.value  = by;             return this       }
+    reset()         { this.value  = this.initial;   return this       }
     get()           {                               return this.value }
 }
 
@@ -61,16 +65,16 @@ function Deps() {
 enum DEPS { 'COUNTER' }
 
 const deps = Deps()
-deps.add<ICounter>(DEPS.COUNTER, CCounter)
+deps.add<Model>(DEPS.COUNTER, Feature)
 
 
 
 // ====================================== // 
 // ================ Main ================ // 
 // ====================================== // 
-const Counter = deps.get<ICounter>(DEPS.COUNTER)
+const DCounter = deps.get<Model>(DEPS.COUNTER)
 
-function main(counter:ICounter = new Counter(0)) {
-    const value = counter.increment().decrement().get()
+function main(counter:Model = new DCounter(0)) {
+    const value = counter.add(100).sub(10).increment().decrement().get()
     console.log({ value })
 }
