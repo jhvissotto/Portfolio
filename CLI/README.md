@@ -190,10 +190,6 @@ tsc --init
 bun init
 ```
 
-```sh
-bun create vite
-```
-
 ### Manage Dependencies
 ```sh
 npm i ____
@@ -216,6 +212,9 @@ npm uninstall ____
 ```sh
 npx create-react-app
 npx create-next-app
+```
+```sh
+bun create vite
 ```
 
 ### Frontend Documentation
