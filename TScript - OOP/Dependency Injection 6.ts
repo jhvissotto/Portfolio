@@ -71,6 +71,6 @@ deps.add<ICounter>(DEPS.COUNTER, CCounter)
 const Counter = deps.get<ICounter>(DEPS.COUNTER)
 
 function main(counter:ICounter = new Counter(0)) {
-    const value = counter.decrement().decrement().get()
+    const value = counter.increment().decrement().get()
     console.log({ value })
 }
