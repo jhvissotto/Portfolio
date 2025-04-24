@@ -66,6 +66,7 @@
 - Web React:    https://github.com/jhvissotto/Template_Web_TScript_React  
 - Web Angular:  https://github.com/jhvissotto/Template_Web_TScript_Angular  
 - Web Vue:      https://github.com/jhvissotto/Template_TScript_Vue
+- Web Vanilla:  https://github.com/jhvissotto/Template_TScript_Vanilla  
 
 - Backend Express:     https://github.com/jhvissotto/Template_Backend_TScript_Express  
 - Backend Flask:       https://github.com/jhvissotto/Template_Backend_Python_Flask  
