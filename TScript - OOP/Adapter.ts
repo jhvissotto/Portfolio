@@ -1,3 +1,6 @@
+// =========================================== // 
+// ================ Counter 1 ================ // 
+// =========================================== // 
 class Counter_1 {
     initial: number
     value:   number
@@ -7,17 +10,19 @@ class Counter_1 {
         this.value   = inival
     }
 
-    increment()     { this.value ++ ;               return this       }
-    decrement()     { this.value -- ;               return this       }
-    add(by: number) { this.value += by;             return this       }
-    sub(by: number) { this.value -= by;             return this       }
-    set(by: number) { this.value  = by;             return this       }
-    reset()         { this.value  = this.initial;   return this       }
-    get()           {                               return this.value }
+    increment()     { this.value ++ ;              return this       }
+    decrement()     { this.value -- ;              return this       }
+    add(by: number) { this.value += by;            return this       }
+    sub(by: number) { this.value -= by;            return this       }
+    set(by: number) { this.value  = by;            return this       }
+    reset()         { this.value  = this.initial;  return this       }
+    get()           {                              return this.value }
 }
 
 
-
+// =========================================== // 
+// ================ Counter 2 ================ // 
+// =========================================== // 
 class Counter_2 {
     counter_1:  InstanceType<typeof Counter_1>
     // initial:    number
