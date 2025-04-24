@@ -272,6 +272,10 @@
 - Binding user actions  
 - Form manipulation  
 
+### TScript - Frontend - JQuery
+- Ajax Request
+- DOM Interaction
+
 ### TScript - Frontend - React  
 - NPM Management  
 - Favicon  
