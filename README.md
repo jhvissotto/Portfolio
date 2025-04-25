@@ -155,6 +155,7 @@
 - Basic Operations
 
 ### Java - OOP
+- Adapter
 - Chaining
 - Inheritance
 
