@@ -91,6 +91,7 @@
 - Basic Operations
 
 ### C++ - OOP
+- Adapter
 - Chaining
 - Inheritance
 
