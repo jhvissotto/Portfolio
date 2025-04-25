@@ -34,11 +34,25 @@ class Counter_2 {
             counter_1(inival) 
         {}
     
-        Counter_1& increment() { return counter_1.increment(); }
-        Counter_1& decrement() { return counter_1.decrement(); }
-        Counter_1& add(int by) { return counter_1.add(by);     }
-        Counter_1& sub(int by) { return counter_1.sub(by);     }
-        Counter_1& set(int by) { return counter_1.set(by);     }
-        Counter_1& reset()     { return counter_1.reset();     }
-        int        get() const { return counter_1.get();       }
+        Counter_2& increment() { counter_1.increment(); return *this;           }
+        Counter_2& decrement() { counter_1.decrement(); return *this;           }
+        Counter_2& add(int by) { counter_1.add(by);     return *this;           }
+        Counter_2& sub(int by) { counter_1.sub(by);     return *this;           }
+        Counter_2& set(int by) { counter_1.set(by);     return *this;           }
+        Counter_2& reset()     { counter_1.reset();     return *this;           }
+        int        get() const {                        return counter_1.get(); }
 };
+
+
+// ===================================== //
+// ================ Run ================ //
+// ===================================== //
+#include <iostream>
+using namespace std;
+
+int main() {
+    Counter_2 counter(100);
+    int value = counter.add(100).sub(10).increment().get(); 
+    cout << value << endl;
+    return 0;
+}
