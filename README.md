@@ -237,6 +237,7 @@
 - Param Optimization  
 
 ### Python - OOP
+- Adapter
 - Chaining
 - Class Breakdown
 - Dependency Injection  
