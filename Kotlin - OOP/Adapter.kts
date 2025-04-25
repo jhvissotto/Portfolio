@@ -4,13 +4,13 @@
 class Counter1(val initial: Int) {
     var value: Int = initial
 
-    fun increment()     : Counter1 { value++; return this }
-    fun decrement()     : Counter1 { value--; return this }
-    fun add(by: Int)    : Counter1 { value += by; return this }
-    fun sub(by: Int)    : Counter1 { value -= by; return this }
-    fun set(by: Int)    : Counter1 { value = by; return this }
-    fun reset()         : Counter1 { value = initial; return this }
-    fun get()           : Int      { return value }
+    fun increment()     : Counter1 { value++;         return this  }
+    fun decrement()     : Counter1 { value--;         return this  }
+    fun add(by: Int)    : Counter1 { value += by;     return this  }
+    fun sub(by: Int)    : Counter1 { value -= by;     return this  }
+    fun set(by: Int)    : Counter1 { value = by;      return this  }
+    fun reset()         : Counter1 { value = initial; return this  }
+    fun get()           : Int      {                  return value }
 }
 
 
