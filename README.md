@@ -178,6 +178,7 @@
 - Basic Operations
 
 ### Kotlin - OOP
+- Adapter
 - Chaining
 - Inheritance
 
