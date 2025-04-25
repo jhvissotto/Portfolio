@@ -34,11 +34,21 @@ class Counter_2 {
         // this.value      = initial
     }
 
-    increment()     { return this.counter_1.increment() }
-    decrement()     { return this.counter_1.decrement() }
-    add(by: number) { return this.counter_1.add(by)     }
-    sub(by: number) { return this.counter_1.sub(by)     }
-    set(by: number) { return this.counter_1.set(by)     }
-    reset()         { return this.counter_1.reset()     }
-    get()           { return this.counter_1.get()       }
+    increment()     { this.counter_1.increment();   return this;                }
+    decrement()     { this.counter_1.decrement();   return this;                }
+    add(by: number) { this.counter_1.add(by);       return this;                }
+    sub(by: number) { this.counter_1.sub(by);       return this;                }
+    set(by: number) { this.counter_1.set(by);       return this;                }
+    reset()         { this.counter_1.reset();       return this;                }
+    get()           {                               return this.counter_1.get() }
 }
+
+
+// ===================================== // 
+// ================ Run ================ // 
+// ===================================== // 
+(function main() {
+    const counter2 = new Counter_2(0)
+    const value    = counter2.add(100).sub(10).increment().decrement().get()
+    console.log({ value })
+}())
