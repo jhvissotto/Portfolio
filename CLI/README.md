@@ -208,7 +208,7 @@ bun update ____
 npm uninstall ____
 ```
 
-### NPX Creators
+### Creators
 ```sh
 npx create-react-app
 npx create-next-app
