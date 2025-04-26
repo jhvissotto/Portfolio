@@ -138,6 +138,7 @@
 
 ### JScript - Get Started
 - Basic Operations
+- JSON Casting
 
 ### Java - Backend - Javalin  
 - Maven Management  
@@ -218,6 +219,7 @@
 
 ### Python - Get Started
 - Basic Operations
+- JSON Casting
 
 ### Python - Finance - OpenBB  
 - Crypto  
