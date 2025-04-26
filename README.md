@@ -252,7 +252,7 @@
 - Implementation
 
 ### Ruby - Get Started
-- Welcome
+- Basic Operations
 
 ### SQL  
 - SQLite Database  
