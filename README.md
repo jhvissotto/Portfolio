@@ -89,6 +89,7 @@
 ### C++ - Get Started
 - First Installation and Execution
 - Basic Operations
+- JSON Casting
 
 ### C++ - OOP
 - Adapter
