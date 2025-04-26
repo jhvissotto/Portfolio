@@ -15,9 +15,9 @@ class Counter implements ICounter {
     initial: number
     value:   number
 
-    constructor(initial: number) {
-        this.initial = initial
-        this.value   = initial
+    constructor(inival: number) {
+        this.initial = inival
+        this.value   = inival
     }
 
     reset()         { this.value  = this.initial;   return this       }
