@@ -74,7 +74,7 @@
 - Backend Springboot:  https://github.com/jhvissotto/Template_Backend_Java_Springboot  
 - Backend Laravel:     https://github.com/jhvissotto/Template_Backend_PHP_Laravel  
 - Backend DotNET:      https://github.com/jhvissotto/Template_Backend_CS_DotNET
-
+- Backend Ruby:        https://github.com/jhvissotto/Template_Backend_Ruby
 
 # Repository Index
 
