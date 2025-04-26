@@ -1,4 +1,4 @@
-import { randomBytes, scryptSync, timingSafeEqual } from 'node:crypto'
+import { randomBytes, scryptSync, timingSafeEqual } from 'crypto'
 
 
 export function _randomBytes() {
@@ -8,7 +8,7 @@ export function _randomBytes() {
 
 export function _crypt(pword:string) {
     const { salt } = _randomBytes()
-    const hash = scryptSync(pword, salt, 64).toString('hex');
+    const hash = scryptSync(pword, salt, 64).toString('hex')
     return { salt, hash }
 }
 
