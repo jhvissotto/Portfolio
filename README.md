@@ -251,6 +251,9 @@
 - Generics
 - Implementation
 
+### Ruby - Get Started
+- Welcome
+
 ### SQL  
 - SQLite Database  
 - SQL Queries  
