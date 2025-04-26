@@ -4,7 +4,7 @@ import { generateKeyPairSync } from 'node:crypto'
 export function keypair_generate() {
     
     return generateKeyPairSync('rsa', {
-        modulusLength: 2048, 
+        modulusLength: 4096, 
         publicKeyEncoding: {
             type:   'spki', 
             format: 'pem',
