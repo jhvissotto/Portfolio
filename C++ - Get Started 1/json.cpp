@@ -21,7 +21,7 @@ int main() {
         {{"bool",true},    {"value",456},     {"text","CCC"}}
     }).dump();  
 
-    json B = json::parse(R"([{"bool":true,"value":123,"text":"AAA"},{"bool":false,"value":456,"text":"BBB"},{"bool":null,"value":789,"text":"CCC"}])");
-
+    json B = json::parse(R"([{"bool":null,"value":null,"text":"AAA"},{"bool":false,"value":123,"text":"BBB"},{"bool":true,"value":456,"text":"CCC"}])");
+    
     return 0;
 }
