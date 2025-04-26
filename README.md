@@ -81,6 +81,7 @@
 ### C# - Get Started
 - First Execution
 - Basic Operations
+- JSON Casting
 
 ### C# + Typing
 - DTO
