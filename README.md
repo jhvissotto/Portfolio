@@ -341,6 +341,10 @@
 - SQLite Database  
 - Basic Implementation
 
+### TScript - Security - Cryptography
+- Keypair
+- Asymmetric, Hash, Hmac, Salt, Signature, Symmetric
+
 ### TScript - Typing
 - DTO
 - Generics
