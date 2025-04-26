@@ -178,6 +178,7 @@
 
 ### kotlin - Get Started
 - Basic Operations
+- JSON Casting
 
 ### Kotlin - OOP
 - Adapter
