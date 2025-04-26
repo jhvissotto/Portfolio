@@ -65,8 +65,8 @@
 - Web Next:     https://github.com/jhvissotto/Template_Web_TScript_Next  
 - Web React:    https://github.com/jhvissotto/Template_Web_TScript_React  
 - Web Angular:  https://github.com/jhvissotto/Template_Web_TScript_Angular  
-- Web Vue:      https://github.com/jhvissotto/Template_TScript_Vue
-- Web Vanilla:  https://github.com/jhvissotto/Template_TScript_Vanilla  
+- Web Vue:      https://github.com/jhvissotto/Template_Web_TScript_Vue
+- Web Vanilla:  https://github.com/jhvissotto/Template_Web_TScript_Vanilla  
 
 - Backend Express:     https://github.com/jhvissotto/Template_Backend_TScript_Express  
 - Backend Flask:       https://github.com/jhvissotto/Template_Backend_Python_Flask  
@@ -74,7 +74,7 @@
 - Backend Springboot:  https://github.com/jhvissotto/Template_Backend_Java_Springboot  
 - Backend Laravel:     https://github.com/jhvissotto/Template_Backend_PHP_Laravel  
 - Backend DotNET:      https://github.com/jhvissotto/Template_Backend_CS_DotNET
-- Backend Ruby:        https://github.com/jhvissotto/Template_Backend_Ruby
+- Backend Ruby:        https://github.com/jhvissotto/Template_Backend_Ruby_Sinatra
 
 # Repository Index
 
