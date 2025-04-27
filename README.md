@@ -67,6 +67,7 @@
 - Web Angular:  https://github.com/jhvissotto/Template_Web_TScript_Angular  
 - Web Vue:      https://github.com/jhvissotto/Template_Web_TScript_Vue
 - Web Vanilla:  https://github.com/jhvissotto/Template_Web_TScript_Vanilla  
+- Web Razor:    https://github.com/jhvissotto/Template_Backend_CSharp_Razor
 
 - Backend Express:     https://github.com/jhvissotto/Template_Backend_TScript_Express  
 - Backend Flask:       https://github.com/jhvissotto/Template_Backend_Python_Flask  
