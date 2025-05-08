@@ -179,6 +179,14 @@ poetry publish --build
 choco install nvm nodejs
 ```
 ```sh
+nvm install node
+nvm use node
+```
+```sh
+nvm install 12
+nvm use 12
+```
+```sh
 npm i -g yarn nodemon typescript ts-node pm2 bun vite electron electron-vite @types/node @types/electron
 ```
 
