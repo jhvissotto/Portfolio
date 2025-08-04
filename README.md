@@ -35,10 +35,6 @@
 ### 📺 Animes Dublados
 - Link: https://animes-dublado.netlify.app/br/animes/dragon-ball-z-1989
 
-### ♥️ Top Models
-- Web: https://proj-top-models.onrender.com
-- Api: https://proj-models-backend.onrender.com
-
 # College
 ### 📚 My Book of Algebrism
 - PDF: https://drive.google.com/file/d/1opQM1WWqgW0dhx6TmKuqvv2j-8KTiD3n
